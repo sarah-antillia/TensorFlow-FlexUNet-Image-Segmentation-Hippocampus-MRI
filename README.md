@@ -1,7 +1,7 @@
 <h2>TensorFlow-FlexUNet-Image-Segmentation-Hippocampus-MRI (2026/03/27)</h2>
 Sarah T. Arai<br>
 Software Laboratory antillia.com<br><br>
-This is the first experiment of Image Segmentation for <b>Hippocampus-MRI</b> (<b>K</b>idney <b>PA</b>rsing Challenge 20<b>22</b>) 
+This is the first experiment of Image Segmentation for <b>Hippocampus-MRI</b>
  based on 
 our <a href="./src/TensorFlowFlexUNet.py">TensorFlowFlexUNet</a>
  (<b>TensorFlow Flexible UNet Image Segmentation Model for Multiclass</b>), and a 256x256 pixels PNG
