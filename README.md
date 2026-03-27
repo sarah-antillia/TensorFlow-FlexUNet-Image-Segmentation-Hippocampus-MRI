@@ -48,7 +48,7 @@ ground truth masks, but they lack precision in certain areas.
 <hr>
 <br>
 <b>Antillia Hippocampus Image Mask Dataset</b><br>
-As shown above, the predicted masks look smoother regions than those of the ground truths, so    
+As shown above, the predicted masks look smoother than those of the ground truths, so    
 we generated a new 256x256 pixels PNG dataset  
 <a href="https://drive.google.com/file/d/16ZMhGpJBL0kAPARE6zVoBKPz_nnEZzUz/view?usp=sharing">Antillia-Hippocampus-ImageMask-Dataset.zip</a> 
  (<a href="https://creativecommons.org/licenses/by-sa/4.0/">
