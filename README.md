@@ -208,7 +208,7 @@ Enabled early stopping callback with patience parameter.
 patience      = 10
 </pre>
 <b>RGB Color map</b><br>
-Specifed rgb color map dict for Hippocampus-MRI 1+4 classes.<br>
+Specifed rgb color map dict for Hippocampus-MRI 1+2 classes.<br>
 <pre>
 [mask]
 mask_datatyoe    = "categorized"
